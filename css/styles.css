@@ -1,0 +1,9 @@
+.card{
+  margin-top: 50px;
+  text-align: center;
+  height: 250px;
+}
+
+.definition{
+  display: none;
+}
